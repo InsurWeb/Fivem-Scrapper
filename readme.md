@@ -25,7 +25,7 @@ Ce script est conçu pour récupérer des informations sur les utilisateurs de F
 
 ## Utilisation
 
-1. Exécutez le script principal `Start dump.bat Ou main.py`:
+1. Exécutez le script principal `Start bump.bat Ou main.py`:
 
     ```bash
     python main.py
